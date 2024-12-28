@@ -61,19 +61,14 @@ Abra o arquivo **.env** Configure o Nome do Projeto usando a variável **APP_NAM
 
 ## 2 - Configuração do Banco de Dados
 Faça as devidas configurações do Banco de Dados, nas variáveis abaixo:
-
-**DB_CONNECTION=mysql
-
-**DB_HOST=127.0.0.1 // Aqui você configura o servidor do Banco de Dados
-
-**DB_PORT=3306 // Aqui você configura a porta do Banco de Dados
-
-**DB_DATABASE=nome-banco // Aqui você configura o nome do Banco de Dados
-
-**DB_USERNAME=root // Aqui você configura o Nome do Usuário do Banco de Dados
-
-**DB_PASSWORD= //Aqui você configura a senha do banco de dados, se vc instalou o Xampp, a senha padrão é vazio
-
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1 // Aqui você configura o servidor do Banco de Dados
+DB_PORT=3306 // Aqui você configura a porta do Banco de Dados
+DB_DATABASE=nome-banco // Aqui você configura o nome do Banco de Dados
+DB_USERNAME=root // Aqui você configura o Nome do Usuário do Banco de Dados
+DB_PASSWORD= //Aqui você configura a senha do banco de dados, se vc instalou o Xampp, a senha padrão é vazio
+```
 
 ## Configuração config/app
 Abra o arquivo **config/app** e faça as configurações de **timezone** e **locale**, se não conseguir siga os passos abaixo:
