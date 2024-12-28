@@ -96,7 +96,7 @@ php artisan vendor:publish --tag=laravel-pt-br-localization
 Crie um arquivo de helper para sua aplicação, o helper é importante para você personalizar funções específicas do seu projeto, caso não saiba como fazer siga as orientações abaixo:
 
 ### 1 - Criação do Arquivo helpers.php
-Crie uma pasta chamada Helper dentro de app e em seguida <a href="https://drive.google.com/file/d/11hChm426c2DiavXsvUj_bVH1xiRCcLeR/view?usp=sharing" target="_blank">**baixe aqui o arquivo**</a> e coloquei dentro desta pasta.
+Crie uma pasta chamada Helper dentro de app e em seguida <a href="https://drive.usercontent.google.com/u/0/uc?id=11hChm426c2DiavXsvUj_bVH1xiRCcLeR&export=download" target="_blank">**baixe aqui o arquivo**</a> e coloquei dentro desta pasta.
 
 ### 2 - Registro no Composer.json
 Registre o helper no autoload do composer arquivo **composer.json** dentro de **autoload**
