@@ -125,7 +125,7 @@ composer require laravellegends/pt-br-validator
 ```
 
 ### 2 - Constantes para status
-<a href="https://drive.google.com/file/d/1pVtfswF5Ll3vxHKU8VSMcJrN4Ud1f281/view?usp=sharing" target="_blank">**Baixe aqui**</a> o arquivo e coloque dentro da pasta **config**.
+<a href="https://drive.usercontent.google.com/uc?id=1pVtfswF5Ll3vxHKU8VSMcJrN4Ud1f281&export=download" target="_blank">**Baixe aqui**</a> o arquivo e coloque dentro da pasta **config**.
 
 ### 3 - Arquivo UtilService
 Crie a pasta **Service** dentro da pasta **app**, depois dentro da pasta Service crie o arquivo **UltilService.php** e implemente a classe.
