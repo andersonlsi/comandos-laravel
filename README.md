@@ -184,6 +184,7 @@ Dentro da pasta public crie uma pasta chamada assets e dentro dela copie as past
 # FATIANDO LAYOUT - PARTE 01
 
 <a href="https://mjailton.com.br/campus/conteudo/passo/1476/38158/661/?f=2001" target="_blank">**Acesse aqui o Vídeo da Aula 01**</a>
+
 <a href="https://mjailton.com.br/campus/conteudo/passo/1476/38163/661/?f=2001" target="_blank">**Acesse aqui o Vídeo da Aula 02**</a>
 
 ## 1 - Instruções gerais
